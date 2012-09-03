@@ -1,0 +1,7 @@
+[Options]
+Name=Forum-SAP
+[Dir]
+Files=
+Images=images
+Css=styles
+Includes=includes
